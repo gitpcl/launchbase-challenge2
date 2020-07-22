@@ -44,10 +44,10 @@ You will also need an editor, I recommend <b>[VSCode](https://code.visualstudio.
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/gitpcl/launchbase-module2
+$ git clone https://github.com/gitpcl/launchbase-challenge2
 
 # Access the dir of the project in your terminal
-$ cd launchbase-module2
+$ cd launchbase-challenge2
 ```
 ### :floppy_disk: Como contribuir
 
