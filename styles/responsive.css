@@ -1,0 +1,34 @@
+@media (max-width:800px) {
+    .content {
+        margin:70px 0 0;
+        width: 100%;
+    }
+
+    .content p {
+        padding: 10px;
+    }
+
+    .content ul {
+        grid-template-columns: 1fr;
+    }
+
+    #content ul {
+        grid-template-columns: 1fr;
+    }
+
+    .content li {
+        margin:20px auto;
+        width: 85%;
+    }
+
+    #content li {
+        margin:20px auto;
+        width: 85%;
+    }
+
+    #footer {
+        position: relative;
+        bottom:0;
+    }
+
+}
